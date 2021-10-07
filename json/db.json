@@ -1,0 +1,46 @@
+{
+  "contact": [
+    {
+      "id": 1,
+      "name": "Loki",
+      "phone": "9191919190",
+      "email": "LokiAsgard@marvel",
+      "company": "Department of mischieve"
+    },
+    {
+      "id": 2,
+      "name": "Thor",
+      "phone": "9191919192",
+      "email": "ThorAsgard@marvel",
+      "company": "Department of Thunder"
+    },
+    {
+      "id": 3,
+      "name": "Tony",
+      "phone": "9193919190",
+      "email": "TonyStark@marvel",
+      "company": "Starck industries(CEO)"
+    },
+    {
+      "name": "Natasha",
+      "email": "NatashaShield@marvel",
+      "phone": "9082314435",
+      "company": "Disney",
+      "id": 4
+    },
+    {
+      "name": "Peter ",
+      "email": "Peter@Oscorp.ac.in",
+      "phone": "1234566789",
+      "company": "Stark Industries",
+      "id": 5
+    },
+    {
+      "name": "Barry",
+      "email": "Barry@starlabs.com",
+      "phone": "1903232132",
+      "company": "StarLabs",
+      "id": 6
+    }
+  ]
+}
